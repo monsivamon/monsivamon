@@ -1,16 +1,21 @@
-## Hi there 👋
+**Cut the noise. Automate everything.**
 
-<!--
-**monsivamon/monsivamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I enjoy building systems that make powerful yet complex tools easily accessible by combining existing ones, rather than creating everything from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Dislikes
+- Internet ads that clutter my view
+- Repetitive manual tasks
+
+### Likes
+- Automation
+- Tinkering with gadgets
+
+---
+
+### Find me online
+- [X](https://x.com/monsivamon)
+- [Note](https://note.com/monsivamon)
